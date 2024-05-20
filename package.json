@@ -1,0 +1,14 @@
+{
+  "name": "work2005",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arr_prime_numbers": "^1.0.0"
+  }
+}
